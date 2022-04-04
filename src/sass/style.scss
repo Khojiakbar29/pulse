@@ -1,0 +1,27 @@
+@import './libs/bootstrap-grid.min';
+@import './libs/slick';
+@import './libs/bootstrap-reboot.min';
+@import './libs/fonts';
+
+
+.container {
+    max-width: 950px;
+    margin: 0 auto;
+}
+
+@import './promo';
+@import './header';
+@import './buttons';
+@import './advantages';
+@import './title';
+@import './consultation';
+@import './forms';
+@import './carousel';
+@import './catalog';
+@import './feedback';
+@import './footer';
+@import './modal';
+@import './pageup';
+@import './animations';
+
+@import './media';
